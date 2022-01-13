@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AlarmManager</string>
+    <string name="button">Start alarm action</string>
+</resources>
